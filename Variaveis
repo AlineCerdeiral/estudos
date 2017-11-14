@@ -1,0 +1,3 @@
+var a;
+console.log('O valor da variavel é' + a); //mostrara a variavel que foi definida
+
